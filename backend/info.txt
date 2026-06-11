@@ -1,0 +1,3 @@
+What is an END-POINT?
+- An endpoint is a combination of URL + HTTP method that let a client interacts 
+with a specific resourse.
